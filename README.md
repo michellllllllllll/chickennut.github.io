@@ -1,5 +1,3 @@
-# chicken-nut.github.io
-this is a game website with html games
 <html dir="ltr" lang="en-US"><head><meta charset="utf-8">
 <style>
   body {
